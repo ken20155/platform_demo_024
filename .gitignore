@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+*.cache
+
+# Rider
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

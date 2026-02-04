@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PlatformDemo.Core/PlatformDemo.Core.csproj" />
+  <Project Path="PlatformDemo.Web/PlatformDemo.Web.csproj" />
+</Solution>
